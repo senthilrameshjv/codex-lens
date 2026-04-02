@@ -28,11 +28,6 @@ npm install
 npm run dev
 ```
 
-Or launch through the packaged CLI:
-
-```bash
-npx codex-lens
-```
 
 ## Data sources
 
